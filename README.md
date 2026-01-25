@@ -8,6 +8,9 @@ Working on production-level C compilers and performance-critical low-level softw
   Worked on post-quantum cryptography, analyzing and optimizing Kyber (KEM) and Dilithium (signatures) in C under NIST security standards.
 
 ## Open-Source Contributions
+- **QEMU Vector Engine — Fractional LMUL Fix**  
+  [View PR](https://lore.kernel.org/qemu-devel/20260125085958.47957-1-khurana.ridham222@gmail.com/)
+  
 - **Spike RISC-V ISA Simulator — PR #2218**  
   [View PR](https://github.com/riscv-software-src/riscv-isa-sim/pull/2218)
 
