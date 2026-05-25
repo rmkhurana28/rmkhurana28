@@ -9,7 +9,7 @@ Working on production-level C compilers and performance-critical low-level softw
 
 ## Open-Source Contribution  
 - **GCC - GNU Compiler Collection**  
-  [View Patch](https://gcc.gnu.org/pipermail/gcc-patches/2026-March/710912.html)
+  [View Patch](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=01b6074a70cf37f3755302c2b2c11f360ea82a6d)
     
 - **QEMU Vector Engine — Fractional LMUL Fix**  
   [View PR](https://lore.kernel.org/qemu-devel/20260125085958.47957-1-khurana.ridham222@gmail.com/)
