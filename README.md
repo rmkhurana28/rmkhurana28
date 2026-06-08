@@ -4,6 +4,8 @@ Systems programming, compilers, and applied cryptography.
 Working on production-level C compilers and performance-critical low-level software.
 
 ## Experience
+- **Linux Kernel Mentee — Linux Foundation**  
+  Working as a mentee in the Linux Kernel Summer 2026 mentorship program, working within Linux kernel development and upstream open-source workflows.
 - **Summer Research Intern — Indian Statistical Institute (ISI), Kolkata**  
   Worked on post-quantum cryptography, analyzing and optimizing Kyber (KEM) and Dilithium (signatures) in C under NIST security standards.
 
