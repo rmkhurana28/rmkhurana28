@@ -20,6 +20,10 @@ Working on production-level C compilers and performance-critical low-level softw
   [View PR](https://github.com/riscv-software-src/riscv-isa-sim/pull/2218)
 
 ## Selected Projects
+- **RM-x86-64-Forge — Optimizing Compiler Backend**  
+  [Repository](https://github.com/rmkhurana28/RM-x86-64-Forge) —  
+  From-scratch optimizing x86-64 compiler backend implementing CFG construction, liveness analysis, Chaitin graph-coloring register allocation, spill rewriting, and native assembly generation.
+
 - **RMc7 — C Compiler Toolchain (In Development)**  
   [Repository](https://github.com/rmkhurana28/RMc7-Production-C-Compiler) —  
   Production-grade C compiler written in C++17, currently under development and targeting 90–95% ISO C coverage with full language and backend support.
