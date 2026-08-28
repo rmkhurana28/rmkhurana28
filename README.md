@@ -11,13 +11,7 @@ Working on production-level C compilers and performance-critical low-level softw
 
 ## Open-Source Contribution  
 - **GCC - GNU Compiler Collection**  
-  [View Patch](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=01b6074a70cf37f3755302c2b2c11f360ea82a6d)
-    
-- **QEMU Vector Engine — Fractional LMUL Fix**  
-  [View PR](https://lore.kernel.org/qemu-devel/20260125085958.47957-1-khurana.ridham222@gmail.com/)
-  
-- **Spike RISC-V ISA Simulator — PR #2218**  
-  [View PR](https://github.com/riscv-software-src/riscv-isa-sim/pull/2218)
+  [View Patch](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=01b6074a70cf37f3755302c2b2c11f360ea82a6d)    
 
 ## Selected Projects
 - **RM-x86-64-Forge — Optimizing Compiler Backend**  
