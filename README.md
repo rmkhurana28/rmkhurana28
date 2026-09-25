@@ -9,9 +9,15 @@ Working on production-level C compilers and performance-critical low-level softw
 - **Summer Research Intern — Indian Statistical Institute (ISI), Kolkata**  
   Worked on post-quantum cryptography, analyzing and optimizing Kyber (KEM) and Dilithium (signatures) in C under NIST security standards.
 
-## Open-Source Contribution  
-- **GCC - GNU Compiler Collection**  
-  [View Patch](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=01b6074a70cf37f3755302c2b2c11f360ea82a6d)    
+## Open-Source Contributions
+- **GCC — GNU Compiler Collection** · `Merged: GCC 17`  
+  [View Commit](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=01b6074a70cf37f3755302c2b2c11f360ea82a6d)
+
+- **Linux Kernel — GPIO (siox)** · `Applied by Maintainer · Merge Pending`  
+  [View Commit](https://git.kernel.org/pub/scm/linux/kernel/git/brgl/linux.git/commit/?id=209fcf625880cd1128bc98ca835d4cb5c3b8e136)
+
+- **Linux Kernel — hwmon (lm95245)** · `Applied by Maintainer · Merge Pending`  
+  [View Commit](https://git.kernel.org/pub/scm/linux/kernel/git/groeck/linux-staging.git/commit/?id=f58c16056f8585ebafb0f1f5d90c23085443a4b9)
 
 ## Selected Projects
 - **RM-x86-64-Forge — Optimizing Compiler Backend**  
